@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @caitlynlgonza
+- 👋 Hi, I’m @catsncodes
 - 👀 I’m interested in all things baking, books, & the outdoors
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on nothing specific atm; just getting comfortable
-- 📫 How to reach me caitlynlgonza@gmail.com
+- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Bananas are slightly radioactive
 
